@@ -1,0 +1,5 @@
+This line contains the ABABAB pattern and there is rain today and rain again.
+This line does not contain the pattern.
+This line contains the pattern ABABAB and I like when it rain and there is rain again.
+This line does not contain the pattern.
+
